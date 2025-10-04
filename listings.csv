@@ -1,0 +1,869 @@
+location,bedroom,bathroom,land_clean,building_clean,price_clean
+"Buah Batu, Bandung",2,1,84,56,425000000
+"Cibiru, Bandung",2,1,87,45,495000000
+"Kota Baru Parahyangan, Bandung",4,3,162,217,3700000000
+"Margahayu, Bandung",4,3,110,150,1150000000
+"Turangga, Bandung",4,3,518,300,6800000000
+"Bandung Kota, Bandung",4,3,146,150,1400000000
+"Cibiru, Bandung",2,1,87,45,495000000
+"Bojongsoang, Bandung",2,2,83,45,492000000
+"Cijerah, Bandung",3,2,68,85,1150000000
+"Gede Bage, Bandung",2,1,72,36,700000000
+"Mekar Wangi, Bandung",4,3,226,340,3900000000
+"Turangga, Bandung",3,3,137,120,1600000000
+"Bandung Kota, Bandung",4,3,108,120,1590000000
+"Setiabudi, Bandung",3,2,108,100,2400000000
+"Dago, Bandung",7,6,1003,688,38000000000
+"Batununggal, Bandung",3,2,300,200,4350000000
+"Cijagra, Bandung",5,3,537,300,7500000000
+"Mekar Wangi, Bandung",4,3,226,340,3900000000
+"Bandung Kulon, Bandung",3,2,173,180,1600000000
+"Mandalajati, Bandung",2,1,66,40,523000000
+"Padasuka, Bandung",2,1,63,40,499000000
+"Riau, Bandung",4,2,1089,365,45000000000
+"Dago, Bandung",3,2,112,114,2300000000
+"Padasuka, Bandung",2,2,72,60,677000000
+"Padasuka, Bandung",2,1,60,40,485000000
+"Padasuka, Bandung",2,1,72,40,485000000
+"Padasuka, Bandung",2,1,66,40,523000000
+"Padasuka, Bandung",2,2,72,60,675000000
+"Padasuka, Bandung",2,1,72,40,485000000
+"Padasuka, Bandung",2,1,72,40,485000000
+"Geger Kalong, Bandung",3,3,125,160,1150000000
+"Padasuka, Bandung",2,1,68,55,450000000
+"Padasuka, Bandung",2,1,72,40,485000000
+"Padasuka, Bandung",3,2,74,60,595000000
+"Bojongsoang, Bandung",2,1,70,45,245000000
+"Sayap Dago, Bandung",3,2,84,55,539000000
+"Padasuka, Bandung",3,2,74,60,595000000
+"Cihanjuang, Bandung",3,2,139,155,650000000
+"Bojongsoang, Bandung",2,1,70,45,245000000
+"Sayap Dago, Bandung",3,2,84,55,539000000
+"Padasuka, Bandung",3,2,74,60,595000000
+"Cihanjuang, Bandung",3,2,139,155,650000000
+"Padasuka, Bandung",2,1,74,45,564000000
+"Padasuka, Bandung",3,2,72,60,825000000
+"Sayap Dago, Bandung",4,3,310,214,5000000000
+"Cimahi, Bandung",2,2,72,45,500000000
+"Padasuka, Bandung",2,2,72,60,825000000
+"Mandalajati, Bandung",4,3,120,129,1700000000
+"Cimenyan, Bandung",3,2,135,70,750000000
+"Taman Kopo Indah, Bandung",4,1,104,74,1000000000
+"Taman Kopo Indah, Bandung",4,3,153,150,1770000000
+"Summarecon Bandung, Bandung",4,3,144,180,3200000000
+"Setiabudi, Bandung",3,3,128,140,1850000000
+"Buah Batu, Bandung",2,1,70,45,285000000
+"Kota Baru Parahyangan, Bandung",4,3,162,217,3700000000
+"Singgasana, Bandung",3,4,187,250,3250000000
+"Sayap Dago, Bandung",3,2,600,450,25000000000
+"Holis Cigondewah, Bandung",2,2,112,90,1200000000
+"Bandung Kota, Bandung",3,2,102,120,1200000000
+"Turangga, Bandung",2,2,120,126,1250000000
+"Setra Duta, Bandung",3,2,60,90,1360000000
+"Cibaduyut, Bandung",3,2,84,120,825000000
+"Antapani, Bandung",4,5,210,200,4000000000
+"Singgasana, Bandung",4,3,200,210,4950000000
+"Holis Cigondewah, Bandung",4,3,135,160,2250000000
+"Gunung Batu, Bandung",5,4,420,300,4200000000
+"Lembang, Bandung",5,2,162,269,2000000000
+"Bandung Kota, Bandung",5,3,456,260,10000000000
+"Sukasari, Bandung",3,3,72,116,1450000000
+"Soekarno Hatta, Bandung",4,3,120,160,1390000000
+"Ciwastra, Bandung",2,1,60,36,250000000
+"Bojongsoang, Bandung",3,3,200,170,3800000000
+"Setra Sari, Bandung",4,3,520,250,5500000000
+"Setiabudi, Bandung",5,4,372,162,2500000000
+"Turangga, Bandung",5,4,470,250,7500000000
+"Pasteur, Bandung",4,3,345,340,5000000000
+"Kopo, Bandung",2,1,84,50,1050000000
+"Sarijadi, Bandung",5,2,296,200,3500000000
+"Cigadung, Bandung",5,2,344,200,2750000000
+"Cimahi, Bandung",4,2,206,200,740000000
+"Cibiru, Bandung",2,1,87,45,495000000
+"Batununggal, Bandung",3,2,240,200,4250000000
+"Soekarno Hatta, Bandung",2,1,60,22,250000000
+"Geger Kalong, Bandung",5,4,113,145,2100000000
+"Lengkong, Bandung",5,3,283,220,6000000000
+"Cikutra, Bandung",4,3,151,170,1250000000
+"Antapani, Bandung",3,2,127,110,1500000000
+"Sayap Dago, Bandung",10,10,1345,400,55000000000
+"Leuwi Panjang, Bandung",3,2,108,95,1350000000
+"Buah Batu, Bandung",5,4,120,220,2000000000
+"Kiaracondong, Bandung",4,2,753,400,2500000000
+"Kopo Permai, Bandung",5,4,243,300,2600000000
+"Bandung Kota, Bandung",8,8,132,180,2250000000
+"Sariwangi, Bandung",2,2,76,50,950000000
+"Banjaran, Bandung",3,3,4000,800,4800000000
+"Arcamanik, Bandung",2,1,97,55,775000000
+"Lengkong, Bandung",6,3,223,168,2900000000
+"Cihanjuang, Bandung",2,1,154,70,750000000
+"Holis Cigondewah, Bandung",3,3,175,110,2300000000
+"Dago, Bandung",42,42,530,1562,12500000000
+"Kota Baru Parahyangan, Bandung",3,3,790,462,19900000000
+"Pondok Hijau, Bandung",3,3,182,235,3250000000
+"Sukajadi, Bandung",14,8,841,558,21000000000
+"Cimenyan, Bandung",3,2,100,130,1850000000
+"Cikutra, Bandung",2,2,109,80,1500000000
+"Sayap Dago, Bandung",8,4,898,600,28000000000
+"Arcamanik, Bandung",4,2,98,106,1300000000
+"Buah Batu, Bandung",4,3,500,200,2500000000
+"Kota Baru Parahyangan, Bandung",4,4,290,265,6500000000
+"Buah Batu, Bandung",4,3,160,200,2850000000
+"Setiabudi, Bandung",5,5,354,450,4900000000
+"Sayap Dago, Bandung",5,3,741,350,6300000000
+"Geger Kalong, Bandung",4,3,151,200,3000000000
+"Veteran, Bandung",7,3,390,500,8250000000
+"Summarecon Bandung, Bandung",2,2,105,80,2200000000
+"Kota Baru Parahyangan, Bandung",4,3,162,217,3700000000
+"Pasir Luyu, Bandung",4,3,285,620,4750000000
+"Pungkur, Bandung",4,3,95,100,1050000000
+"Cibaduyut, Bandung",2,2,80,120,975000000
+"Buah Batu, Bandung",3,3,90,180,1200000000
+"Kota Baru Parahyangan, Bandung",4,3,108,140,2600000000
+"Gede Bage, Bandung",4,3,180,170,3700000000
+"Bandung Kota, Bandung",4,5,362,400,3000000000
+"Geger Kalong, Bandung",3,3,188,154,2500000000
+"Pondok Hijau, Bandung",2,1,144,100,1900000000
+"Cigadung, Bandung",4,4,117,130,1900000000
+"Antapani, Bandung",3,1,93,90,870000000
+"Sayap Dago, Bandung",19,6,690,303,7000000000
+"Sariwangi, Bandung",7,4,496,350,2900000000
+"Antapani, Bandung",3,1,93,90,870000000
+"Turangga, Bandung",3,2,109,160,2650000000
+"Pasteur, Bandung",3,3,309,190,4600000000
+"Lembang, Bandung",3,2,700,300,6500000000
+"Regol, Bandung",4,2,299,215,3300000000
+"Antapani, Bandung",6,3,147,180,2200000000
+"Kota Baru Parahyangan, Bandung",3,3,108,198,1800000000
+"Pajajaran, Bandung",3,2,165,144,3800000000
+"Bandung Kota, Bandung",4,2,150,110,2500000000
+"Turangga, Bandung",3,3,125,200,2800000000
+"Batununggal, Bandung",4,3,180,150,2600000000
+"Gatot Subroto, Bandung",10,5,476,300,14000000000
+"Turangga, Bandung",3,3,108,130,2450000000
+"Batununggal, Bandung",3,2,126,190,2100000000
+"Turangga, Bandung",4,4,156,160,3600000000
+"Buah Batu, Bandung",4,3,109,160,1500000000
+"Padasuka, Bandung",2,1,81,70,945000000
+"Turangga, Bandung",2,2,126,110,1250000000
+"Sayap Dago, Bandung",5,3,741,350,6300000000
+"Setra Sari, Bandung",4,3,99,180,2100000000
+"Sarijadi, Bandung",3,2,97,160,1600000000
+"Turangga, Bandung",2,1,165,80,1650000000
+"Gede Bage, Bandung",4,2,63,120,760000000
+"Singgasana, Bandung",3,3,200,235,4300000000
+"Kota Baru Parahyangan, Bandung",3,3,300,245,5370000000
+"Padalarang, Bandung",2,1,71,36,475000000
+"Rancasari, Bandung",3,2,90,80,895000000
+"Cibaduyut, Bandung",3,2,128,140,1600000000
+"Sayap Dago, Bandung",7,4,451,400,13900000000
+"Ujungberung, Bandung",6,4,145,200,1800000000
+"Ciumbuleuit, Bandung",3,2,164,450,6800000000
+"Holis Cigondewah, Bandung",3,2,171,170,1750000000
+"Lengkong, Bandung",18,8,400,600,4099999999.9999995
+"Ujungberung, Bandung",1,1,60,21,240000000
+"Cibiru, Bandung",2,1,87,45,495000000
+"Holis Cigondewah, Bandung",3,2,171,170,1750000000
+"Cimenyan, Bandung",3,2,89,89,970000000
+"Margahayu, Bandung",2,1,72,50,650000000
+"Margahayu, Bandung",2,2,102,184,975000000
+"Ciparay, Bandung",1,1,1315,1315,3100000000
+"Mandalajati, Bandung",3,2,84,60,600000000
+"Buah Batu, Bandung",5,2,485,283,15000000000
+"Parongpong, Bandung",2,1,38,60,499000000
+"Soekarno Hatta, Bandung",3,4,303,336,3800000000
+"Antapani, Bandung",3,3,232,160,1650000000
+"Banjaran, Bandung",3,3,4000,800,6600000000
+"Singgasana, Bandung",3,4,187,250,3250000000
+"Dago, Bandung",4,3,265,160,3000000000
+"Cigadung, Bandung",4,3,448,450,4400000000
+"Kota Baru Parahyangan, Bandung",4,3,240,143,3500000000
+"Taman Kopo Indah, Bandung",3,2,170,100,1950000000
+"Kopo, Bandung",3,2,81,110,1000000000
+"Holis Cigondewah, Bandung",2,2,102,96,950000000
+"Batununggal, Bandung",4,3,390,354,5500000000
+"Summarecon Bandung, Bandung",2,2,105,80,1600000000
+"Cibeureum, Bandung",8,5,418,300,4000000000
+"Soreang, Bandung",3,2,106,84,1310000000
+"Cihanjuang, Bandung",4,2,218,200,750000000
+"Baleendah, Bandung",3,2,70,80,290000000
+"Muara, Bandung",4,3,113,215,3000000000
+"Moch Toha, Bandung",6,6,570,925,16500000000
+"Pajajaran, Bandung",5,4,415,650,17000000000
+"Baleendah, Bandung",3,3,258,180,1100000000
+"Taman Kopo Indah, Bandung",4,2,82,120,1300000000
+"Kota Baru Parahyangan, Bandung",5,4,450,475,10000000000
+"Kota Baru Parahyangan, Bandung",3,2,575,250,5900000000
+"Kota Baru Parahyangan, Bandung",4,4,392,336,6250000000
+"Kota Baru Parahyangan, Bandung",3,2,495,450,5750000000
+"Kota Baru Parahyangan, Bandung",2,1,126,100,1850000000
+"Taman Kopo Indah, Bandung",2,1,90,68,985000000
+"Kota Baru Parahyangan, Bandung",4,3,271,300,4950000000
+"Kota Baru Parahyangan, Bandung",2,1,126,80,1800000000
+"Kota Baru Parahyangan, Bandung",2,2,108,80,1870000000
+"Kota Baru Parahyangan, Bandung",2,1,126,70,1850000000
+"Kota Baru Parahyangan, Bandung",3,2,120,110,3000000000
+"Pasir Kaliki, Bandung",12,4,420,350,9500000000
+"Batununggal, Bandung",6,3,112,140,1250000000
+"Setiabudi, Bandung",3,3,105,90,1100000000
+"Astanaanyar, Bandung",3,1,172,150,2700000000
+"Gatot Subroto, Bandung",5,4,1007,800,17000000000
+"Kota Baru Parahyangan, Bandung",4,3,220,270,4750000000
+"Margahayu, Bandung",2,2,139,135,1500000000
+"Astanaanyar, Bandung",4,4,187,185,2750000000
+"Taman Kopo Indah, Bandung",2,1,119,125,1200000000
+"Kota Baru Parahyangan, Bandung",4,3,350,280,8000000000
+"Riau, Bandung",7,5,891,400,39000000000
+"Sariwangi, Bandung",3,3,155,125,2450000000
+"Cibaduyut, Bandung",6,2,187,350,2500000000
+"Dago, Bandung",3,3,164,164,1800000000
+"Kopo, Bandung",3,1,105,66,825000000
+"Buah Batu, Bandung",4,4,200,170,3800000000
+"Dago, Bandung",6,3,4040,400,18000000000
+"Cigadung, Bandung",4,3,123,197,2450000000
+"Kota Baru Parahyangan, Bandung",4,4,849,1200,16000000000
+"Taman Kopo Indah, Bandung",2,1,72,37,1000000000
+"BKR, Bandung",3,3,90,135,1750000000
+"Sayap Dago, Bandung",2,2,389,265,4300000000
+"Bandung Kota, Bandung",7,5,515,750,11000000000
+"Dago Pakar, Bandung",5,4,325,218,3900000000
+"Geger Kalong, Bandung",3,2,72,110,1300000000
+"Antapani, Bandung",6,4,300,350,2600000000
+"Geger Kalong, Bandung",5,3,332,350,3600000000
+"Holis Cigondewah, Bandung",2,1,102,38,545000000
+"Bandung Kota, Bandung",4,4,231,300,6500000000
+"Kopo Permai, Bandung",3,2,70,100,825000000
+"Bandung Kota, Bandung",3,2,84,84,845000000
+"Pondok Hijau, Bandung",3,3,188,154,2500000000
+"Buah Batu, Bandung",4,4,180,201,2160000000
+"Bandung Utara, Bandung",2,3,70,210,2800000000
+"Bandung Kota, Bandung",4,3,184,187,950000000
+"Bojongsoang, Bandung",3,2,90,100,550000000
+"Margahayu, Bandung",4,2,238,150,2700000000
+"Turangga, Bandung",4,4,100,200,2450000000
+"Turangga, Bandung",4,3,100,170,2450000000
+"Katapang, Bandung",3,2,60,75,275000000
+"Kota Baru Parahyangan, Bandung",3,2,128,148,2750000000
+"Gede Bage, Bandung",2,1,72,45,600000000
+"Kota Baru Parahyangan, Bandung",5,4,815,650,14000000000
+"Dago, Bandung",6,3,1390,800,15000000000
+"Cikutra, Bandung",5,2,353,300,4600000000
+"Bandung Kulon, Bandung",3,2,270,160,3150000000
+"Riau, Bandung",4,3,132,201,4800000000
+"Soekarno Hatta, Bandung",4,4,170,225,2049999999.9999998
+"Gatot Subroto, Bandung",5,3,993,200,18500000000
+"Gatot Subroto, Bandung",3,2,214,150,3800000000
+"Batununggal, Bandung",2,1,162,100,2100000000
+"Gatot Subroto, Bandung",5,4,336,448,8750000000
+"Dago Pakar, Bandung",4,4,400,110,7500000000
+"Kopo Permai, Bandung",3,2,141,155,1150000000
+"Antapani, Bandung",2,1,112,60,735000000
+"Katapang, Bandung",2,1,60,40,250000000
+"Lengkong, Bandung",11,7,161,140,2700000000
+"Lengkong, Bandung",11,7,161,140,2700000000
+"Mekar Wangi, Bandung",4,3,550,350,8500000000
+"Cibiru, Bandung",2,2,82,75,500000000
+"Bandung Kota, Bandung",7,3,843,500,33000000000
+"Arcamanik, Bandung",6,3,148,202,2000000000
+"Kopo, Bandung",3,3,251,157,3000000000
+"Kopo Permai, Bandung",3,2,193,150,1590000000
+"Batununggal, Bandung",6,4,200,250,3800000000
+"Dago, Bandung",5,4,174,235,3300000000
+"Setra Murni, Bandung",5,3,260,250,3800000000
+"Podomoro Park Bandung, Bandung",3,3,112,127,2190000000
+"Bandung Kota, Bandung",4,4,90,125,1980000000
+"Sayap Dago, Bandung",7,7,13150,600,40000000000
+"Mekar Wangi, Bandung",2,3,105,252,3950000000
+"Summarecon Bandung, Bandung",2,2,66,54,1200000000
+"Tubagus Ismail, Bandung",20,6,200,370,3500000000
+"Ciwastra, Bandung",2,1,80,63,500000000
+"Turangga, Bandung",4,2,140,120,1600000000
+"Turangga, Bandung",3,2,165,80,1650000000
+"Terusan Buah Batu, Bandung",2,1,82,55,650000000
+"Summarecon Bandung, Bandung",2,2,66,54,1200000000
+"Margahayu, Bandung",3,2,145,90,800000000
+"BKR, Bandung",4,3,210,400,4300000000
+"Pajajaran, Bandung",9,3,167,250,3500000000
+"Cikutra, Bandung",4,4,401,350,5200000000
+"BKR, Bandung",3,3,180,300,2250000000
+"Setiabudi, Bandung",3,3,140,175,2600000000
+"Setiabudi, Bandung",5,3,375,462,12500000000
+"Buah Batu, Bandung",2,2,120,100,1200000000
+"BKR, Bandung",3,3,108,123,2100000000
+"Taman Kopo Indah, Bandung",2,2,162,150,1800000000
+"Dago Pakar, Bandung",4,3,512,400,5000000000
+"Taman Kopo Indah, Bandung",4,2,200,165,1250000000
+"Antapani, Bandung",4,4,93,143,1900000000
+"Mekar Wangi, Bandung",4,4,139,235,3850000000
+"Lengkong, Bandung",5,3,190,230,5500000000
+"Setiabudi, Bandung",3,3,188,154,2500000000
+"Ujungberung, Bandung",5,4,1300,600,9500000000
+"Ciumbuleuit, Bandung",3,2,600,170,6000000000
+"Dago, Bandung",3,3,253,200,1600000000
+"Antapani, Bandung",5,5,198,250,1650000000
+"Bandung Kota, Bandung",4,5,126,170,2400000000
+"Cigadung, Bandung",7,6,1100,620,16000000000
+"Bandung Wetan, Bandung",4,3,407,400,9000000000
+"Cipedes, Bandung",7,2,374,180,4600000000
+"Cibogo, Bandung",5,3,325,500,3600000000
+"Sariwangi, Bandung",3,2,66,60,750000000
+"Cihanjuang, Bandung",3,2,225,185,1300000000
+"Kota Baru Parahyangan, Bandung",3,3,198,173,4500000000
+"Dago, Bandung",6,5,4485,1373,50000000000
+"Setra Duta, Bandung",3,3,144,300,3200000000
+"Summarecon Bandung, Bandung",4,3,144,172,3200000000
+"Peta, Bandung",3,2,260,180,3770000000
+"Kota Baru Parahyangan, Bandung",3,3,108,200,1800000000
+"Cibaduyut, Bandung",2,1,115,70,850000000
+"Riau, Bandung",7,5,1225,1254,50000000000
+"Pasteur, Bandung",5,4,130,150,2200000000
+"Sarijadi, Bandung",3,3,150,210,1990000000
+"Antapani, Bandung",3,3,233,200,1650000000
+"Tubagus Ismail, Bandung",7,6,319,350,4500000000
+"Pasteur, Bandung",4,3,400,200,6500000000
+"Antapani, Bandung",2,2,135,110,1300000000
+"Pasteur, Bandung",5,5,320,473,4950000000
+"Cibogo, Bandung",5,3,325,500,3600000000
+"Lembang, Bandung",2,2,267,120,1500000000
+"Antapani, Bandung",3,2,168,120,1850000000
+"Holis Cigondewah, Bandung",1,1,119,60,1100000000
+"Buah Batu, Bandung",4,3,195,185,3000000000
+"Cibaduyut, Bandung",2,1,115,70,850000000
+"Buah Batu, Bandung",2,1,200,69,2800000000
+"Cibogo, Bandung",5,3,325,500,3600000000
+"Pajajaran, Bandung",2,1,127,80,1200000000
+"Braga, Bandung",5,1,373,175,7500000000
+"Cileunyi, Bandung",3,3,862,540,2800000000
+"Dago, Bandung",5,1,104,140,1800000000
+"Setra Duta, Bandung",4,3,126,180,2800000000
+"Kota Baru Parahyangan, Bandung",3,1,108,80,1590000000
+"Cileunyi, Bandung",3,2,105,90,500000000
+"Terusan Buah Batu, Bandung",2,1,120,80,725000000
+"Bandung Kota, Bandung",4,4,187,185,2500000000
+"Cigadung, Bandung",3,3,151,200,1970000000
+"Dago Pakar, Bandung",5,4,647,500,11700000000
+"Buah Batu, Bandung",3,2,106,160,2250000000
+"Sayap Dago, Bandung",4,3,898,400,28000000000
+"Dago Pakar, Bandung",3,4,410,600,8000000000
+"Antapani, Bandung",3,2,135,90,1200000000
+"Dago Pakar, Bandung",3,3,350,145,6820000000
+"Kota Baru Parahyangan, Bandung",3,1,108,80,1590000000
+"Sarijadi, Bandung",5,4,318,300,5750000000
+"Cibogo, Bandung",5,3,325,500,3600000000
+"Dago, Bandung",3,3,550,180,3500000000
+"Bandung Kota, Bandung",4,4,215,275,3950000000
+"Arcamanik, Bandung",5,4,121,128,1500000000
+"Burangrang, Bandung",10,6,467,300,14000000000
+"Riau, Bandung",3,7,907,238,27500000000
+"Antapani, Bandung",4,4,128,300,3750000000
+"Regol, Bandung",5,3,237,270,3500000000
+"Astanaanyar, Bandung",2,2,106,350,5000000000
+"Gatot Subroto, Bandung",6,5,479,300,14000000000
+"Buah Batu, Bandung",2,1,200,69,2800000000
+"Buah Batu, Bandung",2,1,200,69,2800000000
+"Ciateul, Bandung",3,2,130,110,1650000000
+"Mekar Wangi, Bandung",4,4,146,252,3900000000
+"Baleendah, Bandung",2,1,60,60,222000000
+"Peta, Bandung",3,2,500,300,4500000000
+"Arcamanik, Bandung",8,7,751,554,9500000000
+"Bandung Kulon, Bandung",3,1,178,100,850000000
+"Turangga, Bandung",3,3,108,130,2500000000
+"Turangga, Bandung",4,4,187,185,2750000000
+"Pondok Hijau, Bandung",4,3,225,180,2400000000
+"Kota Baru Parahyangan, Bandung",4,3,360,250,4800000000
+"Kota Baru Parahyangan, Bandung",3,2,198,140,3400000000
+"BKR, Bandung",3,2,108,95,1350000000
+"Bojongsoang, Bandung",3,2,101,60,590000000
+"Setra Sari, Bandung",4,3,600,460,8500000000
+"BKR, Bandung",7,4,398,450,3600000000
+"Riau, Bandung",4,2,488,125,14000000000
+"Setra Sari, Bandung",4,2,124,154,2000000000
+"Setra Sari, Bandung",3,2,500,350,7250000000
+"Setra Sari, Bandung",5,4,456,240,9500000000
+"Kopo, Bandung",4,3,172,220,1900000000
+"Buah Batu, Bandung",2,1,70,45,245000000
+"Setiabudi, Bandung",2,2,90,105,1370000000
+"Setiabudi, Bandung",3,2,124,200,1800000000
+"Bojongsoang, Bandung",2,1,70,50,190000000
+"Bojongsoang, Bandung",2,1,70,45,190000000
+"Setiabudi, Bandung",3,3,197,250,2300000000
+"Setiabudi, Bandung",5,4,500,380,3250000000
+"Setiabudi, Bandung",4,3,159,263,2400000000
+"Setiabudi, Bandung",3,2,198,135,2100000000
+"Setiabudi, Bandung",5,3,500,800,6000000000
+"Setiabudi, Bandung",3,3,128,135,1850000000
+"Bojongsoang, Bandung",2,1,70,45,245000000
+"Bojongsoang, Bandung",2,1,70,45,245000000
+"Bojongsoang, Bandung",3,2,98,68,998000000
+"Kota Baru Parahyangan, Bandung",2,1,72,90,1000000000
+"Cibiru, Bandung",3,2,98,100,600000000
+"Kopo, Bandung",3,3,108,165,1250000000
+"Rancasari, Bandung",2,1,78,50,625000000
+"Kota Baru Parahyangan, Bandung",3,2,144,100,2069999999.9999998
+"Kota Baru Parahyangan, Bandung",4,3,162,217,3700000000
+"Setiabudi, Bandung",3,2,319,165,4200000000
+"Regol, Bandung",4,2,140,120,1600000000
+"Setiabudi, Bandung",4,3,180,230,1350000000
+"Cihanjuang, Bandung",2,1,60,50,485000000
+"Buah Batu, Bandung",5,3,185,180,1750000000
+"Batununggal, Bandung",4,2,140,190,3000000000
+"Riau, Bandung",5,4,456,187,14000000000
+"Batununggal, Bandung",5,4,350,450,4200000000
+"Setra Duta, Bandung",4,3,353,350,7000000000
+"Arcamanik, Bandung",4,3,169,140,1700000000
+"Kota Baru Parahyangan, Bandung",3,2,126,100,1900000000
+"Kota Baru Parahyangan, Bandung",5,3,162,250,3850000000
+"Padalarang, Bandung",3,2,128,200,650000000
+"Regol, Bandung",2,1,140,120,1500000000
+"Leuwi Panjang, Bandung",3,2,85,100,975000000
+"Pasteur, Bandung",22,6,87,280,1800000000
+"Andir, Bandung",3,2,274,100,2600000000
+"Turangga, Bandung",4,4,110,180,2650000000
+"Dago, Bandung",5,4,1217,900,40000000000
+"Buah Batu, Bandung",4,2,427,350,9500000000
+"Setiabudi, Bandung",5,4,880,500,15000000000
+"Kota Baru Parahyangan, Bandung",4,3,260,145,4300000000
+"Buah Batu, Bandung",2,2,96,94,1000000000
+"Setiabudi, Bandung",4,3,250,180,2550000000
+"Turangga, Bandung",4,3,286,150,2700000000
+"Regol, Bandung",5,3,237,270,3500000000
+"Kota Baru Parahyangan, Bandung",4,3,162,217,3700000000
+"Setra Duta, Bandung",4,4,153,298,4700000000
+"Riau, Bandung",7,6,600,800,29000000000
+"Katapang, Bandung",2,1,70,45,270000000
+"Cigadung, Bandung",5,4,180,280,3500000000
+"Kiaracondong, Bandung",2,1,60,36,250000000
+"Cigadung, Bandung",6,6,468,400,5300000000
+"Setra Sari, Bandung",4,4,250,350,4300000000
+"Riau, Bandung",5,4,538,389,18000000000
+"Bandung Kota, Bandung",4,3,224,300,2850000000
+"Geger Kalong, Bandung",4,3,108,120,1590000000
+"Padalarang, Bandung",3,2,120,95,2950000000
+"Soreang, Bandung",3,2,63,63,705000000
+"Batununggal, Bandung",8,8,650,700,11000000000
+"Buah Batu, Bandung",4,4,170,250,1850000000
+"Dago, Bandung",3,3,98,122,1900000000
+"Setiabudi, Bandung",3,3,472,400,4600000000
+"Arcamanik, Bandung",3,2,63,70,810000000
+"Setra Duta, Bandung",3,2,105,170,2500000000
+"Setiabudi, Bandung",4,3,200,138,3500000000
+"Dago, Bandung",14,6,200,304,2950000000
+"Dago, Bandung",17,17,424,800,5400000000
+"Setiabudi, Bandung",4,5,495,700,23000000000
+"Setiabudi, Bandung",4,4,314,200,3250000000
+"Pasteur, Bandung",6,4,603,450,5850000000
+"Dago, Bandung",5,4,149,230,2470000000
+"Batununggal, Bandung",3,2,126,190,2100000000
+"Antapani, Bandung",4,3,224,300,2850000000
+"Batununggal, Bandung",4,4,390,354,5400000000
+"Batununggal, Bandung",3,1,200,100,2300000000
+"Antapani, Bandung",4,2,165,220,1980000000
+"Batununggal, Bandung",4,3,300,190,5100000000
+"Batununggal, Bandung",5,4,400,380,7500000000
+"Setiabudi, Bandung",5,5,4670,800,95000000000
+"Batununggal, Bandung",4,4,240,360,4099999999.9999995
+"Kota Baru Parahyangan, Bandung",3,1,108,80,1590000000
+"Lengkong, Bandung",11,7,161,140,2700000000
+"Lengkong, Bandung",11,7,161,140,2700000000
+"Batununggal, Bandung",5,3,260,305,4400000000
+"Batununggal, Bandung",3,2,307,240,3830000000
+"Cibiru, Bandung",4,3,125,250,1800000000
+"Buah Batu, Bandung",2,1,60,36,250000000
+"Batununggal, Bandung",3,3,198,200,3400000000
+"Sukajadi, Bandung",5,2,345,249,3000000000
+"Cigadung, Bandung",3,3,98,122,1900000000
+"Soreang, Bandung",2,1,72,36,470000000
+"Arcamanik, Bandung",3,3,100,110,1130000000
+"Kopo, Bandung",4,3,120,150,975000000
+"Cibaduyut, Bandung",6,3,170,250,2100000000
+"Arcamanik, Bandung",3,1,96,75,850000000
+"Ujungberung, Bandung",3,2,150,120,900000000
+"Kota Baru Parahyangan, Bandung",3,2,120,110,3000000000
+"Bojongsoang, Bandung",3,2,88,120,950000000
+"Kota Baru Parahyangan, Bandung",3,2,192,84,2950000000
+"Arcamanik, Bandung",3,2,176,100,1200000000
+"Ciwastra, Bandung",2,1,60,36,250000000
+"Summarecon Bandung, Bandung",2,1,72,45,600000000
+"Lengkong, Bandung",5,4,470,250,5500000000
+"Kota Baru Parahyangan, Bandung",3,2,126,120,2390000000
+"Setiabudi, Bandung",5,5,372,162,2300000000
+"Setiabudi, Bandung",2,1,100,80,900000000
+"Padalarang, Bandung",2,1,62,22,90000000
+"Arcamanik, Bandung",4,3,100,160,1350000000
+"Antapani, Bandung",2,2,106,80,1270000000
+"Ciwastra, Bandung",3,2,64,68,850000000
+"Taman Kopo Indah, Bandung",2,2,114,90,1300000000
+"Taman Kopo Indah, Bandung",3,2,120,120,1100000000
+"Taman Kopo Indah, Bandung",4,2,130,100,1100000000
+"Taman Kopo Indah, Bandung",2,2,45,72,700000000
+"Taman Kopo Indah, Bandung",4,2,170,200,1500000000
+"Taman Kopo Indah, Bandung",2,1,92,90,999000000
+"Holis Cigondewah, Bandung",5,2,180,170,1750000000
+"Kota Baru Parahyangan, Bandung",3,2,126,105,2760000000
+"Taman Kopo Indah, Bandung",2,1,102,70,1150000000
+"Holis Cigondewah, Bandung",3,2,167,167,1700000000
+"Taman Kopo Indah, Bandung",4,3,150,130,1350000000
+"Kopo, Bandung",3,1,134,120,899000000
+"Buah Batu, Bandung",3,2,80,100,1650000000
+"Ciwastra, Bandung",4,2,96,72,675000000
+"Bandung Kota, Bandung",3,2,120,60,700000000
+"Buah Batu, Bandung",5,4,470,420,2500000000
+"Bojongloa, Bandung",5,4,189,356,2750000000
+"Mekar Wangi, Bandung",4,4,146,252,3900000000
+"Antapani, Bandung",3,2,108,100,1100000000
+"Burangrang, Bandung",6,5,336,448,10000000000
+"Soekarno Hatta, Bandung",4,3,128,85,1700000000
+"Bojongsoang, Bandung",3,2,119,70,1250000000
+"Turangga, Bandung",3,2,126,120,1300000000
+"Margacinta, Bandung",3,2,143,100,1250000000
+"Babakanciparay, Bandung",3,2,132,160,2049999999.9999998
+"Padalarang, Bandung",2,1,70,22,100000000
+"Batununggal, Bandung",4,3,390,354,5500000000
+"Riau, Bandung",4,2,530,300,11600000000
+"Cihanjuang, Bandung",2,1,80,60,799000000
+"Taman Kopo Indah, Bandung",4,3,144,151,1300000000
+"Sarijadi, Bandung",3,1,167,87,1600000000
+"Batununggal, Bandung",5,5,513,350,4099999999.9999995
+"Setra Duta, Bandung",4,4,157,298,4750000000
+"Holis Cigondewah, Bandung",3,2,111,110,1120000000
+"Padalarang, Bandung",2,1,70,22,80000000
+"Sayap Dago, Bandung",4,3,198,150,2490000000
+"Turangga, Bandung",7,4,304,233,4000000000
+"Turangga, Bandung",7,4,304,233,4000000000
+"Kota Baru Parahyangan, Bandung",2,1,90,50,1750000000
+"Turangga, Bandung",4,4,130,108,2500000000
+"Turangga, Bandung",3,3,135,140,1400000000
+"Turangga, Bandung",1,1,169,100,1690000000
+"Turangga, Bandung",5,3,141,175,1690000000
+"Riau, Bandung",4,4,410,320,13000000000
+"Batununggal, Bandung",5,5,513,350,4099999999.9999995
+"Sarijadi, Bandung",4,3,546,250,3950000000
+"Cigadung, Bandung",4,4,106,145,2850000000
+"Pasteur, Bandung",2,2,65,100,1420000000
+"Kota Baru Parahyangan, Bandung",3,1,108,80,1590000000
+"Margahayu, Bandung",5,3,204,250,2000000000
+"Kota Baru Parahyangan, Bandung",3,3,245,300,3800000000
+"Batununggal, Bandung",5,5,513,350,4099999999.9999995
+"Kota Baru Parahyangan, Bandung",3,2,108,118,2400000000
+"Taman Kopo Indah, Bandung",2,3,144,120,1250000000
+"Setra Murni, Bandung",5,5,250,350,4300000000
+"Kota Baru Parahyangan, Bandung",4,2,108,120,2580000000
+"Kopo, Bandung",5,4,1298,360,4500000000
+"Kota Baru Parahyangan, Bandung",2,1,128,100,2100000000
+"Kota Baru Parahyangan, Bandung",3,2,126,105,2760000000
+"Kota Baru Parahyangan, Bandung",3,2,168,130,3350000000
+"Holis Cigondewah, Bandung",3,3,243,175,2300000000
+"Kota Baru Parahyangan, Bandung",3,3,108,200,1800000000
+"Arcamanik, Bandung",5,3,78,119,1400000000
+"Holis Cigondewah, Bandung",3,1,144,100,1550000000
+"Kota Baru Parahyangan, Bandung",3,2,165,183,3700000000
+"Setra Duta, Bandung",4,4,1073,600,20000000000
+"Taman Kopo Indah, Bandung",3,2,102,130,1390000000
+"Dago, Bandung",8,3,598,469,6500000000
+"Kota Baru Parahyangan, Bandung",2,1,72,40,1650000000
+"Margahayu, Bandung",3,2,105,200,1950000000
+"Setra Murni, Bandung",3,2,122,222,2350000000
+"Setra Duta, Bandung",4,3,126,180,2800000000
+"Summarecon Bandung, Bandung",2,3,120,132,3000000000
+"Andir, Bandung",9,3,660,200,10500000000
+"Holis Cigondewah, Bandung",4,3,300,305,3600000000
+"Garuda, Bandung",3,2,315,210,6000000000
+"Kopo, Bandung",6,4,173,320,2800000000
+"Buah Batu, Bandung",3,2,143,100,1250000000
+"Cijerah, Bandung",3,2,173,180,1600000000
+"Kota Baru Parahyangan, Bandung",3,2,120,100,3200000000
+"Taman Kopo Indah, Bandung",4,4,153,136,1500000000
+"Kopo Permai, Bandung",2,1,242,300,1500000000
+"Margahayu, Bandung",3,1,96,86,735000000
+"Taman Kopo Indah, Bandung",2,2,236,150,1700000000
+"Taman Kopo Indah, Bandung",4,3,153,150,1770000000
+"Margahayu, Bandung",4,3,96,227,1000000000
+"Cibaduyut, Bandung",2,1,60,85,730000000
+"Margahayu, Bandung",3,2,72,98,750000000
+"Cihanjuang, Bandung",2,2,78,60,795000000
+"Gede Bage, Bandung",3,2,140,125,1400000000
+"Antapani, Bandung",3,2,105,150,1900000000
+"Antapani, Bandung",4,2,105,100,1900000000
+"Gede Bage, Bandung",3,2,100,60,750000000
+"Arcamanik, Bandung",3,2,150,250,1600000000
+"Rancamanyar, Bandung",2,1,72,36,320000000
+"Kota Baru Parahyangan, Bandung",3,1,162,97,2500000000
+"Padalarang, Bandung",2,1,66,36,460000000
+"Podomoro Park Bandung, Bandung",2,1,60,31,840000000
+"Batununggal, Bandung",5,5,513,350,4099999999.9999995
+"Cigadung, Bandung",4,4,475,287,3900000000
+"Resor Dago Pakar, Bandung",2,2,342,150,2300000000
+"Antapani, Bandung",3,2,84,120,1030000000
+"Resor Dago Pakar, Bandung",5,3,501,400,4900000000
+"Turangga, Bandung",4,4,120,140,2450000000
+"Leuwi Panjang, Bandung",3,3,200,180,1700000000
+"Resor Dago Pakar, Bandung",5,4,149,230,1450000000
+"BKR, Bandung",6,5,779,255,5250000000
+"Lengkong, Bandung",2,1,72,45,600000000
+"Batununggal, Bandung",5,5,513,350,4099999999.9999995
+"Cihanjuang, Bandung",2,1,64,36,550000000
+"Antapani, Bandung",2,2,105,150,1250000000
+"Kopo Permai, Bandung",3,2,105,145,1390000000
+"Kota Baru Parahyangan, Bandung",3,2,120,92,2500000000
+"Cigadung, Bandung",7,4,352,400,4700000000
+"Batununggal, Bandung",2,1,60,40,500000000
+"Antapani, Bandung",2,1,106,85,1170000000
+"Babakanciparay, Bandung",3,2,132,160,2049999999.9999998
+"Resor Dago Pakar, Bandung",4,4,2259,686,19000000000
+"Dago, Bandung",4,3,248,210,2900000000
+"Antapani, Bandung",4,4,308,200,2350000000
+"Turangga, Bandung",4,3,305,200,3770000000
+"Turangga, Bandung",4,4,102,170,2100000000
+"Summarecon Bandung, Bandung",4,3,105,130,2350000000
+"Cijerah, Bandung",3,2,91,150,1500000000
+"Turangga, Bandung",4,3,260,200,3990000000
+"Kota Baru Parahyangan, Bandung",3,1,108,90,1900000000
+"Turangga, Bandung",6,4,250,170,2450000000
+"Turangga, Bandung",3,2,165,100,1650000000
+"Dago, Bandung",5,4,149,230,2390000000
+"Antapani, Bandung",2,1,70,70,980000000
+"Ciateul, Bandung",5,3,237,270,3250000000
+"Geger Kalong, Bandung",3,3,347,200,3800000000
+"Kopo Permai, Bandung",3,2,114,140,1300000000
+"Buah Batu, Bandung",3,1,75,48,680000000
+"Buah Batu, Bandung",3,2,83,60,778000000
+"Ujungberung, Bandung",3,2,88,150,1350000000
+"Buah Batu, Bandung",2,1,61,40,513000000
+"Cikutra, Bandung",12,6,142,220,2800000000
+"Batununggal, Bandung",4,3,390,354,5500000000
+"Arcamanik, Bandung",6,3,294,280,1700000000
+"Cigadung, Bandung",6,6,279,265,2400000000
+"Arcamanik, Bandung",3,3,100,120,1150000000
+"Pasteur, Bandung",3,2,189,175,2970000000
+"Buah Batu, Bandung",3,2,119,70,1150000000
+"Singgasana, Bandung",3,2,200,120,3750000000
+"Buah Batu, Bandung",4,4,140,298,2500000000
+"Arcamanik, Bandung",2,1,113,60,575000000
+"Turangga, Bandung",3,2,126,120,1250000000
+"Cibaduyut, Bandung",3,2,200,120,3750000000
+"Baleendah, Bandung",2,1,140,100,550000000
+"Baleendah, Bandung",2,1,140,100,550000000
+"Rancasari, Bandung",4,3,144,200,985000000
+"Ciwastra, Bandung",2,1,72,45,600000000
+"Bandung Kota, Bandung",4,2,90,100,800000000
+"Gunung Batu, Bandung",6,3,896,362,5500000000
+"Buah Batu, Bandung",3,3,135,140,1400000000
+"Ciwastra, Bandung",2,1,85,80,475000000
+"Bandung Wetan, Bandung",8,7,750,850,16000000000
+"Arcamanik, Bandung",2,1,72,45,600000000
+"Bandung Kota, Bandung",2,1,79,40,700000000
+"Arcamanik, Bandung",3,2,209,133,1150000000
+"Soekarno Hatta, Bandung",3,3,128,100,920000000
+"Antapani, Bandung",4,3,80,150,1200000000
+"Cikutra, Bandung",6,4,115,300,2150000000
+"Antapani, Bandung",3,2,135,90,1200000000
+"Cigadung, Bandung",4,4,132,180,2950000000
+"Singgasana, Bandung",3,2,102,82,2350000000
+"Arcamanik, Bandung",3,2,72,84,790000000
+"Arcamanik, Bandung",2,2,100,75,820000000
+"Margahayu, Bandung",4,3,110,150,1150000000
+"Cikutra, Bandung",2,2,171,100,1000000000
+"Pasteur, Bandung",3,3,112,120,1300000000
+"Antapani, Bandung",3,2,133,120,1500000000
+"Antapani, Bandung",3,3,100,196,1700000000
+"Buah Batu, Bandung",5,4,150,180,1600000000
+"Arcamanik, Bandung",3,3,120,140,1050000000
+"Arcamanik, Bandung",3,2,72,85,790000000
+"Antapani, Bandung",2,2,135,110,1200000000
+"Burangrang, Bandung",3,2,219,100,2500000000
+"Batununggal, Bandung",3,3,180,150,2300000000
+"Antapani, Bandung",2,2,208,70,1270000000
+"Awiligar, Bandung",3,2,100,72,1350000000
+"Dago, Bandung",3,3,160,217,3900000000
+"Pasteur, Bandung",9,10,131,250,1850000000
+"Buah Batu, Bandung",3,3,104,150,1800000000
+"Antapani, Bandung",4,2,216,200,2530000000
+"Bandung Timur, Bandung",2,1,72,45,600000000
+"Bandung Timur, Bandung",2,1,81,70,600000000
+"Cimahi, Bandung",2,1,60,40,500000000
+"Gede Bage, Bandung",2,2,108,68,1620000000
+"Antapani, Bandung",2,1,95,45,600000000
+"Summarecon Bandung, Bandung",2,2,66,62,1650000000
+"Bandung Utara, Bandung",8,11,3500,2000,30000000000
+"Bandung Kota, Bandung",2,1,72,45,600000000
+"Lengkong, Bandung",2,1,72,45,600000000
+"Batununggal, Bandung",2,1,72,45,600000000
+"Bandung Selatan, Bandung",3,3,200,170,3800000000
+"Antapani, Bandung",7,5,421,600,5200000000
+"Arcamanik, Bandung",2,1,72,45,600000000
+"Arcamanik, Bandung",15,12,1031,1350,12500000000
+"BKR, Bandung",3,3,195,150,2950000000
+"Kota Baru Parahyangan, Bandung",3,3,144,180,2900000000
+"Terusan Buah Batu, Bandung",2,2,108,86,700000000
+"Setiabudi, Bandung",3,2,108,100,2400000000
+"Kota Baru Parahyangan, Bandung",2,1,72,40,1650000000
+"Leuwi Panjang, Bandung",4,3,235,175,2500000000
+"Kota Baru Parahyangan, Bandung",3,2,136,92,3000000000
+"Dago, Bandung",3,2,112,114,2300000000
+"Arcamanik, Bandung",3,2,112,56,850000000
+"Dago, Bandung",15,6,520,500,19000000000
+"Kopo, Bandung",5,3,208,100,2000000000
+"Padalarang, Bandung",2,1,70,70,550000000
+"Rancasari, Bandung",2,1,72,45,1100000000
+"Cicendo, Bandung",2,1,107,100,1750000000
+"Lengkong, Bandung",4,3,261,261,9000000000
+"Burangrang, Bandung",5,2,334,130,7250000000
+"Sarijadi, Bandung",6,3,168,170,1600000000
+"Ngamprah, Bandung",2,1,72,38,560000000
+"Ciwidey, Bandung",3,1,63,53,395000000
+"Kota Baru Parahyangan, Bandung",3,2,126,105,2760000000
+"Gatot Subroto, Bandung",5,3,475,500,12000000000
+"Rancasari, Bandung",3,3,112,88,1470000000
+"Turangga, Bandung",3,2,107,110,1250000000
+"Ciwastra, Bandung",2,1,72,45,600000000
+"Buah Batu, Bandung",2,1,72,45,600000000
+"Geger Kalong, Bandung",2,2,308,180,2950000000
+"Setra Duta, Bandung",3,3,89,192,3270000000
+"Antapani, Bandung",2,1,60,40,500000000
+"Gede Bage, Bandung",2,1,60,40,500000000
+"Cigadung, Bandung",3,3,92,161,1850000000
+"Regol, Bandung",5,5,357,500,3500000000
+"Dago, Bandung",3,3,350,300,6500000000
+"Sayap Dago, Bandung",5,5,600,500,25000000000
+"Kopo, Bandung",2,1,84,50,1050000000
+"Kota Baru Parahyangan, Bandung",3,2,180,220,4310000000
+"Kota Baru Parahyangan, Bandung",3,2,180,205,4470000000
+"Kota Baru Parahyangan, Bandung",3,2,352,200,5500000000
+"Moch Toha, Bandung",4,2,375,300,5100000000
+"Taman Kopo Indah, Bandung",2,2,102,80,1250000000
+"Buah Batu, Bandung",5,3,150,250,1800000000
+"Gede Bage, Bandung",2,3,105,108,1900000000
+"Ciwastra, Bandung",2,1,72,45,600000000
+"Regol, Bandung",4,2,375,300,5100000000
+"Batununggal, Bandung",3,2,126,160,2000000000
+"Cilengkrang, Bandung",2,2,60,50,670000000
+"Antapani, Bandung",4,3,121,128,1500000000
+"Taman Kopo Indah, Bandung",2,1,112,70,1350000000
+"Holis Cigondewah, Bandung",2,1,114,90,1300000000
+"Setra Duta, Bandung",3,2,647,306,11500000000
+"Kutawaringin, Bandung",2,2,140,165,1300000000
+"Bandung Timur, Bandung",1,1,100,36,375000000
+"Bandung Kota, Bandung",2,1,72,45,600000000
+"Regol, Bandung",9,6,578,361,8350000000
+"Kota Baru Parahyangan, Bandung",3,1,108,80,1600000000
+"Kota Baru Parahyangan, Bandung",2,2,108,200,1800000000
+"Kota Baru Parahyangan, Bandung",4,4,392,336,7500000000
+"Setra Indah, Bandung",4,3,780,550,13500000000
+"Pondok Hijau, Bandung",4,3,168,216,1990000000
+"Pasteur, Bandung",4,2,160,320,2900000000
+"Taman Kopo Indah, Bandung",4,3,170,194,2650000000
+"Pasteur, Bandung",2,1,72,54,2000000000
+"Regol, Bandung",4,3,145,120,2150000000
+"Bandung Wetan, Bandung",4,3,850,500,36000000000
+"Setra Sari, Bandung",6,4,228,300,2950000000
+"Batununggal, Bandung",3,2,168,130,2900000000
+"Dago, Bandung",4,3,135,224,3400000000
+"Bandung Kota, Bandung",4,3,135,224,3400000000
+"Dago, Bandung",4,3,135,224,3400000000
+"Kota Baru Parahyangan, Bandung",4,4,300,198,5000000000
+"Braga, Bandung",5,1,313,175,7500000000
+"Lembang, Bandung",4,2,1000,396,4500000000
+"Gatot Subroto, Bandung",2,2,823,500,15000000000
+"Buah Batu, Bandung",2,1,60,40,290000000
+"Antapani, Bandung",2,1,110,60,1400000000
+"Kota Baru Parahyangan, Bandung",3,2,120,160,2850000000
+"Mekar Wangi, Bandung",3,3,141,246,2950000000
+"Rancasari, Bandung",2,1,60,40,290000000
+"Antapani, Bandung",4,4,270,310,2940000000
+"Antapani, Bandung",4,2,105,125,1650000000
+"Turangga, Bandung",5,4,470,250,6000000000
+"Setra Indah, Bandung",3,2,470,150,4000000000
+"Kota Baru Parahyangan, Bandung",4,6,775,750,21000000000
+"Cijagra, Bandung",4,4,129,200,2550000000
+"Antapani, Bandung",3,2,160,190,1900000000
+"Batununggal, Bandung",5,2,278,235,3350000000
+"Batununggal, Bandung",5,4,252,300,4500000000
+"Cigadung, Bandung",8,5,350,450,3500000000
+"Dago, Bandung",3,3,490,490,6000000000
+"Taman Kopo Indah, Bandung",3,2,144,120,1300000000
+"Pasteur, Bandung",16,18,559,440,7300000000
+"Taman Kopo Indah, Bandung",2,1,96,120,1100000000
+"Kota Baru Parahyangan, Bandung",3,2,136,92,3200000000
+"Cimenyan, Bandung",5,4,750,850,16000000000
+"Cidadap, Bandung",3,2,255,158,2200000000
+"Bojongsoang, Bandung",4,2,75,150,550000000
+"Turangga, Bandung",7,3,282,200,2800000000
+"Riau, Bandung",5,5,568,500,11000000000
+"Tubagus Ismail, Bandung",24,25,450,600,6500000000
+"BKR, Bandung",4,3,133,170,2900000000
+"Buah Batu, Bandung",3,4,198,300,1990000000
+"Buah Batu, Bandung",4,3,779,255,5250000000
+"Antapani, Bandung",3,3,108,100,1350000000
+"Buah Batu, Bandung",4,3,316,200,7000000000
+"Setiabudi, Bandung",5,5,354,450,4800000000
+"Buah Batu, Bandung",7,3,254,400,3850000000
+"Pasteur, Bandung",3,3,170,170,3000000000
+"Bandung Kota, Bandung",3,2,104,80,974000000
+"Margahayu, Bandung",3,2,150,130,1300000000
+"Setra Duta, Bandung",4,4,157,298,4700000000
+"Pasteur, Bandung",3,5,180,400,3300000000
+"Cibaduyut, Bandung",3,1,90,80,720000000
+"Bandung Kota, Bandung",3,2,104,80,975000000
+"Setra Duta, Bandung",3,2,76,225,2400000000
+"BKR, Bandung",4,3,320,400,9000000000
+"Cibaduyut, Bandung",3,2,248,147,1450000000
+"Dago, Bandung",9,10,534,500,8250000000
+"Pajajaran, Bandung",9,7,543,360,6500000000
+"Riau, Bandung",5,2,1089,365,45000000000
+"Turangga, Bandung",5,3,322,200,3900000000
+"Sudirman, Bandung",4,3,256,400,3000000000
+"Cibaduyut, Bandung",5,2,222,135,1900000000
+"Geger Kalong, Bandung",5,3,488,600,8500000000
+"Setra Duta, Bandung",4,6,675,800,15000000000
+"Pasteur, Bandung",13,5,300,270,4300000000
+"Gunung Batu, Bandung",3,3,245,280,2200000000
+"Dago, Bandung",4,6,708,400,9100000000
+"Cihampelas, Bandung",4,2,172,160,2350000000
+"Pasteur, Bandung",8,3,210,160,3100000000
+"BKR, Bandung",3,2,108,95,1350000000
+"Setra Murni, Bandung",4,4,409,256,3600000000
+"Bandung Kota, Bandung",2,1,148,100,1600000000
+"Setiabudi, Bandung",5,3,300,290,4300000000
+"Setra Duta, Bandung",3,3,200,200,3650000000
+"Astanaanyar, Bandung",3,2,288,300,7000000000
+"Pasir Kaliki, Bandung",30,30,456,600,12000000000
+"Setiabudi, Bandung",10,7,716,650,5000000000
+"Setra Murni, Bandung",4,3,255,250,3750000000
+"Cigadung, Bandung",3,3,92,160,1890000000
+"Podomoro Park Bandung, Bandung",3,3,119,127,2700000000
+"Cigadung, Bandung",3,3,95,130,2760000000
+"Ciumbuleuit, Bandung",4,3,265,375,5000000000
+"Dago, Bandung",7,4,1738,950,35000000000
+"Sukajadi, Bandung",4,2,136,240,2200000000
+"Setra Duta, Bandung",4,3,120,270,3600000000
+"Setra Murni, Bandung",5,4,1000,900,10500000000
+"Cangkuang, Bandung",2,1,60,72,350000000
+"Bandung Kidul, Bandung",6,2,147,160,1400000000
+"Ciparay, Bandung",2,1,60,36,375000000
+"Ciwastra, Bandung",3,3,124,130,2150000000
+"Pasteur, Bandung",4,4,153,167,2300000000
+"Batujajar, Bandung",2,1,84,84,500000000
+"Pasteur, Bandung",7,4,1015,352,27500000000
+"Buah Batu, Bandung",5,4,224,320,2550000000
+"Sukahaji, Bandung",4,3,113,145,2500000000
+"Pasteur, Bandung",2,2,479,729,13500000000
+"Bandung Kulon, Bandung",4,2,77,140,1150000000
+"Cibeunying, Bandung",3,2,80,65,1670000000
+"Gatot Subroto, Bandung",4,2,512,200,11000000000
+"Caringin, Bandung",4,2,113,196,1390000000
+"Sarijadi, Bandung",5,3,98,145,2250000000
+"Kota Baru Parahyangan, Bandung",2,1,30,50,1760000000
+"Margacinta, Bandung",3,2,140,100,750000000
+"Kopo, Bandung",3,2,195,100,1200000000
+"Podomoro Park Bandung, Bandung",2,2,96,94,2600000000
+"Cimenyan, Bandung",3,3,84,180,900000000
+"Buah Batu, Bandung",3,2,100,80,950000000
+"Buah Batu, Bandung",4,3,162,175,1700000000
+"Gatot Subroto, Bandung",5,2,1694,394,30500000000
+"Dago, Bandung",3,3,379,250,4200000000
+"Turangga, Bandung",4,2,220,190,2600000000
+"Dago Pakar, Bandung",5,3,428,485,9750000000
+"Geger Kalong, Bandung",4,4,134,130,1850000000
+"Supratman, Bandung",5,3,250,200,2250000000
+"Gede Bage, Bandung",4,2,105,104,2550000000
+"Kota Baru Parahyangan, Bandung",4,3,162,139,3200000000
